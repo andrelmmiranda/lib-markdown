@@ -6,7 +6,7 @@ import getLink from './getLink.js';
 const getFile = async (filepath)=>{
     try {
         const texto = await fs.promises.readFile(filepath, 'utf-8');
-        //console.log(chalk.green(typeof getLink(texto))); 
+         
         return getLink(texto);
     } catch (error) {
         launchError(error);

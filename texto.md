@@ -1,4 +1,4 @@
 [FileList](https://developer.mozilla.org/en-US/docs/Web/API/FileList)
-[FileList](https://developer.mozilla.org/en-US/docs/Web/API/FileList)
-[<input>](https://developer.mozilla.org/en-US/docs/Web/API/FileLista)
-[FileLista](https://developer.mozilla.org/en-US/docs/Web/API/FileLista)
+[HTML - HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<input>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+[Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
